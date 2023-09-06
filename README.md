@@ -19,11 +19,10 @@
   </a>
 </div><br>
 <div align="center">
-  <a href="https://github/olgacsmendes"><img alt="github" src="https://img.shields.io/github/followers/olgacsmendes?color=181717&logo=github&style=for-the-badge&label=github"/>
+  <a href="https://github.com/olgacsmendes"><img alt="github" src="https://img.shields.io/github/followers/olgacsmendes?color=181717&logo=github&style=for-the-badge&label=github"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=olgacsmendes&style=for-the-badge&color=32325D"/>
-</div><br>
-<p align="center"><img src="https://img.shields.io/github/followers/olgacsmendes.svg?style=social&label=Follow&maxAge=2592000"/></p>
+</div>
 
 ## 🖖🏼 **About me:**
 ```diff
