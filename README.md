@@ -24,10 +24,10 @@
 ## 🖖🏼 **About me:**
 ```diff
 # Who am I?
+@@ I'm currently studying Software Analysis and Development @@
 @@ Born and raised in Juazeiro, Bahia, Brazil @@
 @@ 25 years old (90's kid) @@
 @@ Front-end developer (or trying to be) @@
-@@ I know a thing or two about Back-end development @@
 
 # Trivia:
 @@ I'm graduated in Psychology @@
