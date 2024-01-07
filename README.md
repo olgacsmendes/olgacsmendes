@@ -26,7 +26,7 @@
 # Who am I?
 @@ I'm currently studying Software Analysis and Development @@
 @@ Born and raised in Juazeiro, Bahia, Brazil @@
-@@ 25 years old (90's kid) @@
+@@ 26 years old (90's kid) @@
 @@ Front-end developer (or trying to be) @@
 
 # Trivia:
